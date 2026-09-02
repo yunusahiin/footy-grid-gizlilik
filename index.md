@@ -4,10 +4,12 @@ title: Footy Grid
 
 # ⚽ Footy Grid
 
-Futbol bilgini test eden bir mobil oyun. Üç oyun modu var: **Dört Dörtlük** (4x4 kare
-bulmaca), **Kontra** (45 saniyelik hız turu) ve **Kim Bu?** (günde tek bulmaca).
+Futbol bilgini test eden bir mobil oyun. Dört oyun modu var: **Dört Dörtlük** (4x4
+kare bulmaca), **Kontra** (45 saniyelik hız turu), **Kim Bu?** (günde tek bulmaca)
+ve **Dokuzluk** (3x3 kesişim gridi).
 
-Çevrimdışı çalışır. Reklam yok, üyelik yok, hiçbir veri toplanmaz.
+Çevrimdışı oynanabilir, reklam yoktur. İsterseniz bir takma ad alıp online puan
+tablosuna katılabilirsiniz; katılmazsanız cihazınızdan hiçbir veri çıkmaz.
 
 - [Gizlilik Politikası](gizlilik)
 
